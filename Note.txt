@@ -1,0 +1,8 @@
+-Set up path for component in react app
+
+ -using rect-router dom library, install using 'npm i react-router-dom'
+ -step to setup path to component using react router dom
+     -react app must render inside <Browser router>
+     -component needs to setup path must inside <Routes> component of react router dom
+     -using <Routes> component define each path
+     
